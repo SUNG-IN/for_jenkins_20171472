@@ -1,0 +1,10 @@
+MongoDB >= 3.6.3
+Sphinx >=1.6.7
+python >= 3.6.9
+numpy
+pandas
+flask >= 1.1.1, <= 1.1.2
+librosa
+lPython.display
+matplotlib.pyplot
+librosa.display
